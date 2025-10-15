@@ -1,4 +1,4 @@
-Gene,Motif,Position
+Gene,CIS-elements,Position
 StSNAT1,LTR,441
 StSNAT1,LTR,566
 StSNAT1,LTR,867
@@ -1007,3 +1007,4 @@ StSNAT29,TCA-element,304
 StSNAT29,W box,375
 StSNAT29,W box,2144
 StSNAT29,W box,2379
+
